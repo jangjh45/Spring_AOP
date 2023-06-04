@@ -10,7 +10,7 @@ public class api {
 
   @GetMapping("/api/getTest")
   public void GetTest() {
-    log.info("getTest");
+    log.info("getTest 컨트롤러");
   }
 
 }
